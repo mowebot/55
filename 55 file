@@ -1,4 +1,3 @@
-208.87.242.55,#genre#
 CP24,http://208.87.242.55/livehttpplay?channel_id=50205
 Treehouse,http://208.87.242.55/livehttpplay?channel_id=50207
 ftv2,http://208.87.242.55/livehttpplay?channel_id=50208
@@ -38,7 +37,7 @@ HubPremier 3,http://208.87.242.55/livehttpplay?channel_id=13309
 42025 sport,http://208.87.242.55/livehttpplay?channel_id=42025
 42026 sport,http://208.87.242.55/livehttpplay?channel_id=42026
 
-10000,#genre#
+
 10000,http://208.87.242.55/livehttpplay?channel_id=10000
 10001,http://208.87.242.55/livehttpplay?channel_id=10001
 10002,http://208.87.242.55/livehttpplay?channel_id=10002
